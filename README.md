@@ -1,4 +1,10 @@
-## Olá eu sou o Fernando del Cantão
+## Fernando del Cantão
+Product Manager at Think data living in Switzerland.
+- Software Developer
+- 😍 Backend Dev
+- 👍 Enthusiasts Frontend Dev & DevOps 
+- 🐱 love animals
+- 🇧🇷 ❤️ 🇨🇭
 <a href="https://github.com/delcantao">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=delcantao&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=delcantao&layout=compact&langs_count=8&theme=dracula"/>
