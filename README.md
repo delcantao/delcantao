@@ -17,7 +17,7 @@ Product Manager at Think Data living in Switzerland.
 </div>
   
   ##
-  
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdelcantao&label=visitors&countColor=%23263759&labelStyle=lower)
   <div>
   <a href = "mailto:feedc91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernando-del-cant%C3%A3o" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
