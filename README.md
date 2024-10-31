@@ -6,8 +6,8 @@ Founder and Developer at [Coleta Digital](https://coleta.digital) <img src="http
 - 🐱 Love Animals
 - <img src="https://github.com/user-attachments/assets/7e4e31ba-9acb-4d46-956e-201c24d6951d" width="16"> ❤️ <img src="https://github.com/user-attachments/assets/d0dfc45b-5d5e-4bcb-a77e-ca43ae4235d9" width="16">
 <a href="https://github.com/delcantao">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=delcantao&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=delcantao&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=delcantao&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=delcantao&layout=compact&langs_count=8&theme=onedark"/>
 <div style="display: inline_block"><br>
   
   <img align="center" alt="LF-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
