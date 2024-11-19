@@ -1,17 +1,21 @@
 ## Fernando del Cantão
 Founder and Developer at [Coleta Digital](https://coleta.digital) <img src="https://github.com/user-attachments/assets/7e4e31ba-9acb-4d46-956e-201c24d6951d" width="16">  and [Laundry Bag](https://laundrybag.ch)  <img src="https://github.com/user-attachments/assets/d0dfc45b-5d5e-4bcb-a77e-ca43ae4235d9" width="16">
 - Software Developer
-- 😍 Mainly Backend Dev
-- 👍 Enthusiasts Frontend Dev & DevOps 
-- 🐱 Love Animals
+- My preferred tech stack .NET | Nuxt3 | PHP | Angular | Docker | Nginx | Ubuntu
 - <img src="https://github.com/user-attachments/assets/7e4e31ba-9acb-4d46-956e-201c24d6951d" width="16"> ❤️ <img src="https://github.com/user-attachments/assets/d0dfc45b-5d5e-4bcb-a77e-ca43ae4235d9" width="16">
 <a href="https://github.com/delcantao">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=delcantao&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=delcantao&layout=compact&langs_count=8&theme=onedark"/>
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="LF-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="LF-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="LF-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="LF-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="LF-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
+  <img align="center" alt="LF-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg"> 
+  <img align="center" alt="LF-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"> 
+  <img align="center" alt="LF-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
+  <img align="center" alt="LF-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
+  <img align="center" alt="LF-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
   
 </div>
   
